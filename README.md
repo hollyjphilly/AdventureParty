@@ -1,4 +1,4 @@
-# AdventureParty
+# AdventureParty-UI
 An app for your RPG group.
 
 ## Initial MVP Roadmap
