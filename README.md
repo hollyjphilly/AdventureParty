@@ -1,6 +1,10 @@
 # AdventureParty-UI
 An app for your RPG group.
 
+## Phase 0
+ - Deploy to adventureparty.io via Namecheap
+ - Add basic redux flow
+
 ## Phase 1
 #### 1. Authentication - UI (React, Vite, Jest, Yarn)
  - Home Page (w/ Sign In button)
